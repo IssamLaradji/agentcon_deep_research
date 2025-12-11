@@ -62,5 +62,14 @@ By the end of this workshop, you will have a working Deep Research Agent web app
 * Re query the system using the follow up  
 * Refine insights based on additional context
 
+### Final Challenge
+* Make a beautiful looking Deep Research App where the user can select the folder where the files are.
+* Most beautiful site will get an award from me, just send the code and screenshot to the "outputs" discord channel
+
 ## 🧩 Final Output
 A complete Deep Research Agent that retrieves information across multiple files, generates structured insights, cites exact sources, evaluates recall, serves results through a Flask API, and handles follow up interactions.
+
+**About the Teacher:**
+​Issam Laradji is a Research Scientist at ServiceNow and an Adjunct Professor at University of British Columbia. He holds a PhD in Computer Science and a PhD from the University of British Columbia, and his research interests include natural language processing, computer vision, and large-scale optimization.
+
+Feel free to connect on LinkedIn: https://www.linkedin.com/in/issam-laradji-67ba1a99/
