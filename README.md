@@ -4,6 +4,10 @@ Build a full Deep Research Agent in 12 hands-on tasks.
 ## 🎯 Goal
 By the end of this workshop, you will have a working Deep Research Agent web app with RAG, LLM-as-Judge, citation support, and follow up interactions.
 
+<p align="center">
+  <img src="data/app.png" alt="Deep Research Agent UI Screenshot" width="600">
+</p>
+
 ## Installation
 - `pip install -r requirements.txt`
 - create `.env` with the together api key 
